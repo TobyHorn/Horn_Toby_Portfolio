@@ -1,2 +1,2 @@
 # Toby Horn’s Portfolio
-This repository will be used to house the work that I have created throughout my DVP courses.
+I am a student at Full Sail University. I am studying to receive my Bachelor’s degree for Web Design & Development. During my time at Full Sail I will be attending courses that are developed to help me create a portfolio which can later be used for job searches if I choose to do so. Therefore, this repository will be used to house the work that I have created throughout those portfolio development courses
