@@ -1,0 +1,5 @@
+C:\Users\Toby\Documents\Projects\HornToby_Assignment05\HornToby_Assignment05\bin\Debug\HornToby_Assignment05.exe
+C:\Users\Toby\Documents\Projects\HornToby_Assignment05\HornToby_Assignment05\bin\Debug\HornToby_Assignment05.pdb
+C:\Users\Toby\Documents\Projects\HornToby_Assignment05\HornToby_Assignment05\obj\x86\Debug\HornToby_Assignment05.csprojResolveAssemblyReference.cache
+C:\Users\Toby\Documents\Projects\HornToby_Assignment05\HornToby_Assignment05\obj\x86\Debug\HornToby_Assignment05.exe
+C:\Users\Toby\Documents\Projects\HornToby_Assignment05\HornToby_Assignment05\obj\x86\Debug\HornToby_Assignment05.pdb

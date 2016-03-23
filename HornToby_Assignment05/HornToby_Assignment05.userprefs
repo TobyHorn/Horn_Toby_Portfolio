@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="HornToby_Assignment05\HornToby_Assignment05.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HornToby_Assignment05\Program.cs">
+    <Files>
+      <File FileName="HornToby_Assignment05\Program.cs" Line="82" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
